@@ -3,7 +3,7 @@
 package = "nixio"
 version = "scm-0"
 source = {
-	url = "git://github.com/Neopallium/nixio.git"
+	url = "git://github.com/guijun/nixio.git"
 }
 description = {
 	summary = "System, Networking and I/O library for Lua",
